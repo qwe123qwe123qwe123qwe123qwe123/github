@@ -1,24 +1,24 @@
-print('helo mir
+print('helo mir')
 wwww
-import pageme
-in put"privet"
+import pygame
+in put("privet")
 
 a = input("preven")
 while True:
-      print('''w''''''ww'ww')
-      '''inpat("hahahahahaha")
-      print(a, 'ti dahyhn)'
+      print('wwww')
+      input("hahahahahaha")
+      print(a, 'ti dahyhn'))
             ;lkjhg
       break
 
-            pygame =standof
+            pygame = standof
             
             wwwwwwww
             awq2
             
 pygame.enot()
-            while tru:
-            print(;sssswqimjunh7bg6f56y78912{'{@}}}
+            while truy:
+            print('sssswqimjunh7bg6f56y78912'):
             break
      '
                                              
@@ -34,12 +34,6 @@ pygame.enot()
                                      3
                          7
                                                         9
-PAGEME.QUERT><LKJUY(*))
-                               aawawaaw
-                                             awawwaaw
-                                             w
-                                             aw
-                                             aw
-                                             aw
-                                             aw
-                                                             w
+
+                               
+                           
